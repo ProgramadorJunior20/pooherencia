@@ -34,4 +34,10 @@ public class Profesor extends Persona{
                 + getAsignatura() + ", y mi nombre es "
                 + getNombre();
     }
+
+    @Override
+    public String toString() {
+        return super.toString() +
+                "\nasignatura='" + asignatura;
+    }
 }

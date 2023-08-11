@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a98dfa83-7d64-4a9b-9941-7195c4ab9bc3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/co/jmurillo/ejemplo/EjemploHerenciaToString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/jmurillo/ejemplo/EjemploHerenciaConstructores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/jmurillo/ejemplo/EjemploHerenciaConstructores.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/co/jmurillo/pooherencia/Alumno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/jmurillo/pooherencia/Alumno.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/co/jmurillo/pooherencia/AlumnoInternacional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/jmurillo/pooherencia/AlumnoInternacional.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/co/jmurillo/pooherencia/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/jmurillo/pooherencia/Persona.java" afterDir="false" />
@@ -48,7 +48,7 @@
       <recent name="co.jmurillo.ejemplo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EjemploHerenciaConstructores">
+  <component name="RunManager" selected="Application.EjemploHerenciaToString">
     <configuration name="EjemploHerencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="co.jmurillo.pooherencia.EjemploHerencia" />
       <module name="poo_herencia" />
@@ -64,6 +64,19 @@
     </configuration>
     <configuration name="EjemploHerenciaConstructores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="co.jmurillo.ejemplo.EjemploHerenciaConstructores" />
+      <module name="poo_herencia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.jmurillo.ejemplo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploHerenciaToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.jmurillo.ejemplo.EjemploHerenciaToString" />
       <module name="poo_herencia" />
       <extension name="coverage">
         <pattern>
@@ -97,6 +110,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EjemploHerenciaToString" />
         <item itemvalue="Application.EjemploHerenciaConstructores" />
         <item itemvalue="Application.co.jmurillo.ejemplo.EjemploHerencia" />
         <item itemvalue="Application.EjemploHerencia" />
