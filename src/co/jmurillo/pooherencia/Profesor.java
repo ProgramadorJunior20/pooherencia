@@ -27,4 +27,11 @@ public class Profesor extends Persona{
     public void setAsignatura(String asignatura) {
         this.asignatura = asignatura;
     }
+
+    @Override
+    public String saludar() { // Sobre escritura de métodos en la herencia
+        return "Hola buenos dias, soy el profesor de "
+                + getAsignatura() + ", y mi nombre es "
+                + getNombre();
+    }
 }
