@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a98dfa83-7d64-4a9b-9941-7195c4ab9bc3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/co/jmurillo/ejemplo/EjemploHerenciaToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/co/jmurillo/pooherencia/AlumnoInternacionalDiplomatico.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/jmurillo/pooherencia/Alumno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/jmurillo/pooherencia/Alumno.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/co/jmurillo/pooherencia/AlumnoInternacional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/jmurillo/pooherencia/AlumnoInternacional.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/jmurillo/pooherencia/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/jmurillo/pooherencia/Persona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/jmurillo/pooherencia/Profesor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/jmurillo/pooherencia/Profesor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

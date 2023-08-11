@@ -1,6 +1,6 @@
 package co.jmurillo.pooherencia;
 
-public class AlumnoInternacional extends Alumno{
+public final class AlumnoInternacional extends Alumno{
     //Atributos de la clase Alumno
     private String pais;
     private double notaIdiomas;
